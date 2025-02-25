@@ -74,8 +74,8 @@ Analyzes the correlation between rising sea levels and severe weather occurrence
 README.md        # Project documentation
 ```
 ### 📌 Key Learning Outcomes
-✅ Building end-to-end data pipelines on Google Cloud Platform (GCP)
-✅ Performing ETL processing using Cloud Data Fusion
-✅ Running SQL-based analytics on BigQuery
-✅ Creating interactive data visualizations with Looker Studio
+-  Building end-to-end data pipelines on Google Cloud Platform (GCP)
+-  Performing ETL processing using Cloud Data Fusion
+-  Running SQL-based analytics on BigQuery
+-  Creating interactive data visualizations with Looker Studio
 
