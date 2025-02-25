@@ -69,7 +69,7 @@ Analyzes the correlation between rising sea levels and severe weather occurrence
 ### 📂 Repository Structure
 ```
 /data             # Sample climate dataset  
-/sql_queries      # BigQuery SQL scripts  
+/reports         # Full Pdf Report 
 /visualizations   # Looker Studio dashboard screenshots  
 README.md        # Project documentation
 ```
